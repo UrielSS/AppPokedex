@@ -41,7 +41,7 @@ Instala todas las dependencias necesarias con:
 npm install
 ```
 
-##🚀 Paso 3: Ejecutar la app
+## 🚀 Paso 3: Ejecutar la app
 
 Inicia el servidor de desarrollo con:
 
