@@ -29,8 +29,8 @@
 1. Clona este repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/nombre-del-repo.git
-cd nombre-del-repo
+https://github.com/UrielSS/AppPokedex.git
+cd AppPokedex
 ```
 
 ## 📦 Paso 2: Instalar dependencias
