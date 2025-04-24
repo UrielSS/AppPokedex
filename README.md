@@ -1,20 +1,20 @@
 # 📱 Pokédex App - Ionic ⚡
 
-Bienvenido a **Pokédex App**, una aplicación móvil desarrollada con **Ionic + Angular** que permite explorar una lista dinámica de Pokémon. Esta app consume datos de una API (o dataset local), muestra sprites, tipos y ofrece navegación hacia detalles individuales. Ideal para practicar con componentes de Ionic y técnicas como scroll infinito.
+**Pokédex App**, una aplicación móvil desarrollada con **Ionic + Angular** que permite explorar una lista dinámica de Pokémon. Esta app consume datos de una API (o dataset local), muestra sprites, tipos y ofrece navegación hacia detalles individuales. Ideal para practicar con componentes de Ionic y técnicas como scroll infinito.
 
 ---
 
-## ✨ Características
+## Características
 
-- 🧩 Vista de Pokémon con sus sprites y tipos
-- ♾️ Scroll infinito para carga continua
-- 📲 Diseño responsive adaptado a móviles
-- 🎨 Estilos personalizados con SCSS
-- 🔁 Navegación fluida entre vistas
+- Vista de Pokémon con sus sprites y tipos
+- Scroll infinito para carga continua
+- Diseño responsive adaptado a móviles
+- Estilos personalizados con SCSS
+- Navegación fluida entre vistas
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - Ionic Framework
 - Angular
@@ -31,3 +31,28 @@ Bienvenido a **Pokédex App**, una aplicación móvil desarrollada con **Ionic +
 ```bash
 git clone https://github.com/tu-usuario/nombre-del-repo.git
 cd nombre-del-repo
+```
+
+## 📦 Paso 2: Instalar dependencias
+
+Instala todas las dependencias necesarias con:
+
+```bash
+npm install
+```
+
+##🚀 Paso 3: Ejecutar la app
+
+Inicia el servidor de desarrollo con:
+
+```bash
+ionic serve -o
+```
+Esto abrirá la app en tu navegador predeterminado y podrás verla en vivo en http://localhost:8100/.
+
+
+
+
+
+
+
